@@ -11,6 +11,7 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Kora kagaz tha ye man mera.
 * Mere sapnon ki raani.
 * Akhiyon ke jharokon se.
+* Mere mehboob kayamat hogi
 * Lag jaa gale.
 * Ek pyar ka nagma he.
 * Jo wada kiya wo.
