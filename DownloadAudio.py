@@ -1,5 +1,6 @@
 #! /usr/bin/python
-
+#Author: Hardhik Mallipeddi
+#Made to ease the download process. No copyright infringement intended.
 import re
 import os
 
