@@ -1,5 +1,5 @@
 #! /usr/bin/python
-
+#Made to ease the download process. No copyright infringement intended.
 import re
 import os
 
