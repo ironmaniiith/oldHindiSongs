@@ -1,9 +1,5 @@
 Collection of old hindi evergreen songs that I just can't stop listening.
 
-
-Collection of old hindi evergreen songs that I just can't stop listening.
-
-
 * Ajeeb daastan he ye
   * [Original](https://www.youtube.com/watch?v=PmgVX-0W3vk)
 * Pehla nasha
