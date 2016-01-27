@@ -36,3 +36,4 @@ Don't forget to see the other branches (covers, instrumentals, remixAndOther) as
 * [Ek Ajnabee Haseena Se Yu Mulaqat](https://www.youtube.com/watch?v=Ko7Bt0XsIqk)
 * [Sara zamana haseenon ka deewana](https://www.youtube.com/watch?v=0AwkZihdw6E)
 * [Humein tumse pyar kitna](https://www.youtube.com/watch?v=75JxottQK9E)
+* [Yeh Jo Mohabbat Hai](https://www.youtube.com/watch?v=YIWX9vCffms)
