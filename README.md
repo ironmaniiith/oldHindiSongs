@@ -1,5 +1,5 @@
 Collection of old hindi evergreen songs that I just can't stop listening.
-
+Don't forget to see the other branches (covers, instrumentals, remixAndOther) as well.
 
 * [Ajeeb daastan he ye](https://www.youtube.com/watch?v=yTgkfms8J98)
 * [Pehla nasha](https://www.youtube.com/watch?v=nXAkqLBgxGA)
@@ -35,3 +35,4 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * [Kabhi Kabhi Mere Dil Me](https://www.youtube.com/watch?v=pdXZJ6dsaW4)
 * [Ek Ajnabee Haseena Se Yu Mulaqat](https://www.youtube.com/watch?v=Ko7Bt0XsIqk)
 * [Sara zamana haseenon ka deewana](https://www.youtube.com/watch?v=0AwkZihdw6E)
+* [Humein tumse pyar kitna](https://www.youtube.com/watch?v=75JxottQK9E)
