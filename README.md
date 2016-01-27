@@ -33,7 +33,13 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Mere mehboob kayamat hogi
   * []()
 * Lag jaa gale
-  * []()
+  * [Original](https://www.youtube.com/watch?v=e_O7KA1_p2U)
+  * [Piano cover by Chetan Ghodeshwar](https://www.youtube.com/watch?v=O72k3aYQZKA)
+  * [Stanley Samuel Saxophone](https://www.youtube.com/watch?v=g8JBFS2vhjo)
+  * [Flute](https://www.youtube.com/watch?v=JaO9YrEC6KE)
+  * [Flute cover](https://www.youtube.com/watch?v=U4JZqv9yWSw)
+  * [Random](https://www.youtube.com/watch?v=dVshdXGmT-4)
+  * [Accordian](https://www.youtube.com/watch?v=54WTuDrA2Lo)
 * Ek pyar ka nagma he
   * []()
 * Jo wada kiya wo
