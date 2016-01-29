@@ -37,3 +37,10 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Sara zamana haseenon ka deewana](https://www.youtube.com/watch?v=0AwkZihdw6E)
 * [Humein tumse pyar kitna](https://www.youtube.com/watch?v=75JxottQK9E)
 * [Yeh Jo Mohabbat Hai](https://www.youtube.com/watch?v=YIWX9vCffms)
+* [Isharon Isharon me dil lene walo](link khud daal lena)
+* [gulaabi aakhein](same as above)
+* [suno saajna papihe ne]("")
+* [ye sama,sama hai ye pyaar ka]("")
+* [tere bina jiya jaae naa]("le lata mangeshkar ko hi sun")
+* [apni aakhon me basa kar]("")
+* 
