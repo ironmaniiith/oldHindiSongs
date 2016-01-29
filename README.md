@@ -12,6 +12,7 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Mere sapnon ki raani](https://www.youtube.com/watch?v=vo1MykK4u8U)
 * [Akhiyon ke jharokon se](https://www.youtube.com/watch?v=KqpIIaCJggY)
 * [Mere mehboob kayamat hogi](https://www.youtube.com/watch?v=yIzCBU0_LyY)
+* [Tere bina zindagi se koi](https://www.youtube.com/watch?v=8-HnmVg0-O8)
 * [Lag jaa gale](https://www.youtube.com/watch?v=TFr6G5zveS8)
 * [Ek pyar ka nagma he](https://www.youtube.com/watch?v=ST_WC13rNJo)
 * [Raat kali ek khwab me aayi](https://www.youtube.com/watch?v=jFYlChHSdzo)
@@ -43,3 +44,4 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Ye sama, sama he ye pyar ka](https://www.youtube.com/watch?v=FZCdSmTxXRo)
 * [Tere bina jiya jaye naa](https://www.youtube.com/watch?v=9j5bnsNS-FE)
 * [Apni aakhon me basa kar](https://www.youtube.com/watch?v=kv87jmRp7zo)
+* 
