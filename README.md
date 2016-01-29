@@ -1,4 +1,4 @@
-Collection of old hindi evergreen songs that I just can't stop listening.
+Collection of old hindi evergreen songs (covers).
 
 
 * Ajeeb daastan he ye
@@ -8,7 +8,7 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Yeh shaam mastani
   * []()
 * Pal pal dil ke paas
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=GvK5ZVFju1I)
 * Pyar deewana hota he
   * []()
 * Deewana leke aaya he
@@ -16,15 +16,17 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Chukar mere man ko
   * []()
 * Kora kagaz tha ye man mera
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=SzHQSzAlxOI)
 * Mere sapnon ki raani
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=IrpRI8NyulE)
 * Akhiyon ke jharokon se
   * []()
-* Mere mehboob kayamat hogi
-  * []()
+* Mere mehboob qayamat hogi
+  * [Sanam](https://www.youtube.com/watch?v=M6Ul3ASaFLU)
 * Lag jaa gale
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=HnLtNrvfZTU)
+  * [Jonita Gandhi](https://www.youtube.com/watch?v=pyTl6wf0BNQ)
+  * [IMX](https://www.youtube.com/watch?v=NnbmpECZEUk)
 * Ek pyar ka nagma he
   * []()
 * Jo wada kiya wo
@@ -56,7 +58,7 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Kisi roz tumse
   * []()
 * Oh mere dil ke chain
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=w--g30WTfBs)
 * Gum hai kisi ke
   * []()
 * Aaj sanam madhur chandani me
@@ -72,9 +74,9 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Ek Ajnabee Haseena Se Yu Mulaqat
   * []()
 * Tere bina zindagi se koi
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=OsXUsTZRpZA)
 * Gulaabi Aakhein
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=hgi2MYAFgE8)
 * Me shayar to nahin
   * []()
 * Gum hai kisi ke pyar mein
