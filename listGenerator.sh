@@ -8,10 +8,11 @@ while [[ "${list[index]}" != "" ]]; do
 	> "${list[index]}"  >/dev/null 2>/dev/null
 	index=$(($index+1))
 done
+OTHER_BRANCH=`git branch | grep "\*" | cut -d " " -f2-`
 
 git checkout master
 cat README.md | egrep "^\* \[" | cut -d "[" -f 2 | cut -d "]" -f 1 > "$MAIN_SONGS"
-git checkout covers
+git checkout "$OTHER_BRANCH"
 cat README.md | egrep -v "\[" | cut -d " " -f2- > "$COVER_SONGS"
 
 echo "" >> "$MAIN_SONGS"
