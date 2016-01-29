@@ -86,3 +86,33 @@ Collection of old hindi evergreen songs that I just can't stop listening.
   * []()
 * Ek Ajnabee Haseena Se Yu Mulaqat
   * []()
+* Tere bina zindagi se koi
+  * []()
+* Gulaabi Aakhein
+  * []()
+* Me shayar to nahin
+  * []()
+* Gum hai kisi ke pyar mein
+  * []()
+* Aaja sanam madhur chandani me
+  * []()
+* Aaja piya tohe pyar du
+  * []()
+* Chura liya hai tumne
+  * []()
+* Sara zamana haseenon ka deewana
+  * []()
+* Humein tumse pyar kitna
+  * []()
+* Yeh jo mohabbat hai
+  * []()
+* Isharon isharon me dil lene wale
+  * []()
+* Suno Sajna Papihe Ne
+  * []()
+* Ye sama, sama he ye pyar ka
+  * []()
+* Tere bina jiya jaye naa
+  * []()
+* Apni aakhon me basa kar
+  * []()
