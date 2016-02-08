@@ -46,5 +46,6 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Tere bina jiya jaye naa](https://www.youtube.com/watch?v=9j5bnsNS-FE)
 * [Apni aakhon me basa kar](https://www.youtube.com/watch?v=kv87jmRp7zo)
 * [Tujhse naraz nahi zindagi](https://www.youtube.com/watch?v=W-iyNg4IhW4)
-* [Kuch na kaho]()
+* [Kuch na kaho](https://www.youtube.com/watch?v=lIWy295Gb3o)
 * [Ye chand sa roshan chehra](https://www.youtube.com/watch?v=txv7RCe8DXM)
+* [Hai apna dil to awara](https://www.youtube.com/watch?v=3K8TH8LBs-w)
