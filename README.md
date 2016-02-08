@@ -31,7 +31,10 @@ Collection of old hindi evergreen songs that I just can't stop listening.
 * Akhiyon ke jharokon se
   * []()
 * Mere mehboob kayamat hogi
-  * []()
+  * [Original](https://www.youtube.com/watch?v=CeS-9hMSrvA)
+  * [Stanley Samuel Saxophone](https://www.youtube.com/watch?v=MlI_emKXVzA)
+  * [Harmonica](https://www.youtube.com/watch?v=znZYGWLCNI8)
+  * [Keyboard+instrumental](https://www.youtube.com/watch?v=DYn8WlYLNAs)
 * Lag jaa gale
   * [Original](https://www.youtube.com/watch?v=e_O7KA1_p2U)
   * [Piano cover by Chetan Ghodeshwar](https://www.youtube.com/watch?v=O72k3aYQZKA)
