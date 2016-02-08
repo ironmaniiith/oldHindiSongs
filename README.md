@@ -44,7 +44,10 @@ Collection of old hindi evergreen songs that I just can't stop listening.
   * [Random](https://www.youtube.com/watch?v=dVshdXGmT-4)
   * [Accordian](https://www.youtube.com/watch?v=54WTuDrA2Lo)
 * Ek pyar ka nagma he
-  * []()
+  * [Piano slow best](https://www.youtube.com/watch?v=egORuW6kstI)
+  * [Piano](https://www.youtube.com/watch?v=31g-lxeeYsY)
+  * [Violin](https://www.youtube.com/watch?v=f37GYIYhAeU)
+  * [Violin](https://www.youtube.com/watch?v=inQdWR7Hv-M)
 * Jo wada kiya wo
   * []()
 * Raat kali ek khwab me aayi
