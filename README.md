@@ -49,11 +49,12 @@ Collection of old hindi evergreen songs that I just can't stop listening.
   * [Violin](https://www.youtube.com/watch?v=f37GYIYhAeU)
   * [Violin](https://www.youtube.com/watch?v=inQdWR7Hv-M)
 * Jo wada kiya wo
-  * []()
+  * [Guitar](https://www.youtube.com/watch?v=BSeQfNAehdo)
+  * [Piano](https://www.youtube.com/watch?v=ROaDZ1hV6oM)
 * Raat kali ek khwab me aayi
   * [Saxophone](https://www.youtube.com/watch?v=oowWuJRh_G8#t=24m22s)
 * Baar baar dekho
-  * []()
+  * [Saxophone](https://www.youtube.com/watch?v=oowWuJRh_G8#t=34m41s)
 * Dekha ek khwab
   * []()
 * Neele neele ambar par
