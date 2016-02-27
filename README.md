@@ -123,3 +123,24 @@ Collection of old hindi evergreen songs that I just can't stop listening.
   * []()
 * Apni aakhon me basa kar
   * []()
+* Mere mehboob qayamat hogi
+  * []()
+* Gulabi Aakhein
+  * []()
+* Roop tera mastana
+  * []()
+* Tujhse naraz nahi zindagi
+  * []()
+* Kuch na kaho
+  * []()
+* Ye chand sa roshan chehra
+  * []()
+* Hai apna dil to awara
+  * []()
+* Tu tu hai wahi dil ne jise apna kaha
+  * [Original](https://www.youtube.com/watch?v=z02GMWkyZxk)
+  * [Remix version](https://www.youtube.com/watch?v=l3f_VtaepbI)
+* Gazab ka hai din
+  * []()
+* Papa kehte hain bada naam karega
+  * []()
