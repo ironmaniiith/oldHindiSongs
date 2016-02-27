@@ -103,3 +103,20 @@ Collection of old hindi evergreen songs (covers).
   * []()
 * Apni aakhon me basa kar
   * []()
+* Roop tera mastana
+  * []()
+* Tujhse naraz nahi zindagi
+  * []()
+* Kuch na kaho
+  * []()
+* Ye chand sa roshan chehra
+  * []()
+* Hai apna dil to awara
+  * []()
+* Tu tu hai wahi dil ne jise apna kaha
+  * [Jonita Gandhi](https://www.youtube.com/watch?v=BEYCEq1m6kk)
+  * [Sanam](https://www.youtube.com/watch?v=qwvn-heOJVw)
+* Gazab ka hai din
+  * []()
+* Papa kehte hain bada naam karega
+  * []()
