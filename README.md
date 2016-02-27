@@ -75,7 +75,7 @@ Collection of old hindi evergreen songs (covers).
   * []()
 * Tere bina zindagi se koi
   * [Sanam](https://www.youtube.com/watch?v=OsXUsTZRpZA)
-* Gulaabi Aakhein
+* Gulabi Aakhein
   * [Sanam](https://www.youtube.com/watch?v=hgi2MYAFgE8)
 * Me shayar to nahin
   * []()
