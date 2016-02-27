@@ -49,4 +49,6 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Kuch na kaho](https://www.youtube.com/watch?v=lIWy295Gb3o)
 * [Ye chand sa roshan chehra](https://www.youtube.com/watch?v=txv7RCe8DXM)
 * [Hai apna dil to awara](https://www.youtube.com/watch?v=3K8TH8LBs-w)
-* [Tu tu hai wahi](https://www.youtube.com/watch?v=1o0zU640a7M)
+* [Tu tu hai wahi dil ne jise apna kaha](https://www.youtube.com/watch?v=1o0zU640a7M)
+* [Gazab ka hai din](https://www.youtube.com/watch?v=HgYiNVNsHwE)
+* [Papa kehte hain bada naam karega](https://www.youtube.com/watch?v=FEvBiayarlc)
