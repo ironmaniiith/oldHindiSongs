@@ -116,7 +116,9 @@ Collection of old hindi evergreen songs (covers).
 * Tu tu hai wahi dil ne jise apna kaha
   * [Jonita Gandhi](https://www.youtube.com/watch?v=BEYCEq1m6kk)
   * [Sanam](https://www.youtube.com/watch?v=qwvn-heOJVw)
+  * [Shraddha Sharma](https://www.youtube.com/watch?v=CgrRxo8LBw4)
+  * [Anjana Indian idol](https://www.youtube.com/watch?v=l4qA55MgVhA)  
 * Gazab ka hai din
-  * []()
+  * [Sifar, rock music](https://www.youtube.com/watch?v=ntKzHXAucFs)
 * Papa kehte hain bada naam karega
   * []()
