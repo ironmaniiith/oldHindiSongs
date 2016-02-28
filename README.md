@@ -2,9 +2,11 @@ Collection of old hindi evergreen songs (covers).
 
 
 * Ajeeb daastan he ye
-  * []()
+  * [Kappa TV](https://www.youtube.com/watch?v=Dczl7eOlyXY)
 * Pehla nasha
-  * []()
+  * [Alaa Wardi](https://www.youtube.com/watch?v=WikcPREx0DM)
+  * [Siddharth Slathia](https://www.youtube.com/watch?v=rJiOpgF98Jw)
+  
 * Yeh shaam mastani
   * []()
 * Pal pal dil ke paas
