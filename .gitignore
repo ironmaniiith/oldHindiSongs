@@ -1,0 +1,5 @@
+*.temp
+*.cmd
+test*
+songs
+*.tmp
