@@ -11,7 +11,7 @@ done
 
 git checkout master
 cat README.md | egrep "^\* \[" | cut -d "[" -f 2 | cut -d "]" -f 1 > "$MAIN_SONGS"
-git checkout covers
+git checkout karaoke
 cat README.md | egrep "^\* \[" | cut -d "[" -f 2 | cut -d "]" -f 1 > "$COVER_SONGS"
 
 echo "" >> "$MAIN_SONGS"
