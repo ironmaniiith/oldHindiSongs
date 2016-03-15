@@ -114,7 +114,7 @@ Collection of old hindi evergreen songs (covers).
 * Ye chand sa roshan chehra
   * []()
 * Hai apna dil to awara
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=JlgkMXex2DI)
 * Tu tu hai wahi dil ne jise apna kaha
   * [Jonita Gandhi](https://www.youtube.com/watch?v=BEYCEq1m6kk)
   * [Sanam](https://www.youtube.com/watch?v=qwvn-heOJVw)
