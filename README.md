@@ -110,7 +110,7 @@ Collection of old hindi evergreen songs (covers).
 * Tujhse naraz nahi zindagi
   * []()
 * Kuch na kaho
-  * []()
+  * [Sanam](https://www.youtube.com/watch?v=3A1LgFkIPfA)
 * Ye chand sa roshan chehra
   * []()
 * Hai apna dil to awara
@@ -124,3 +124,5 @@ Collection of old hindi evergreen songs (covers).
   * [Sifar, rock music](https://www.youtube.com/watch?v=ntKzHXAucFs)
 * Papa kehte hain bada naam karega
   * []()
+* Aise na mujhe tum dekho
+  * [Strumm Sound](https://www.youtube.com/watch?v=eMKDUUQxG9Y)
