@@ -54,3 +54,5 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Papa kehte hain bada naam karega](https://www.youtube.com/watch?v=FEvBiayarlc)
 * [Aise na mujhe tum dekho](https://www.youtube.com/watch?v=zksiOBPUmqg)
 * [Kitne bhi tu karle sitam](https://www.youtube.com/watch?v=5GXmHEIYxCo)
+* [Gata rahe mera dil](https://www.youtube.com/watch?v=oMhPE48fGho)
+* [Khoya khoya chand](https://www.youtube.com/watch?v=MDDVLE7HV10)
