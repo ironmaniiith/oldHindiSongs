@@ -56,3 +56,4 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Kitne bhi tu karle sitam](https://www.youtube.com/watch?v=5GXmHEIYxCo)
 * [Gata rahe mera dil](https://www.youtube.com/watch?v=oMhPE48fGho)
 * [Khoya khoya chand](https://www.youtube.com/watch?v=MDDVLE7HV10)
+* [Aaja aai bahar](https://www.youtube.com/watch?v=lgN9PURVpHw)
