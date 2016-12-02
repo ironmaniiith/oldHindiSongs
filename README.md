@@ -57,3 +57,5 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Gata rahe mera dil](https://www.youtube.com/watch?v=oMhPE48fGho)
 * [Khoya khoya chand](https://www.youtube.com/watch?v=MDDVLE7HV10)
 * [Aaja aai bahar](https://www.youtube.com/watch?v=lgN9PURVpHw)
+* [Ek pardesi mera dil le gya](https://www.youtube.com/watch?v=rJjxRIfAYno)
+* [Leke pehle pehle pyar](https://www.youtube.com/watch?v=SFqGQ54WT9Y)
