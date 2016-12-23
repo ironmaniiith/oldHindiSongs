@@ -1,8 +1,8 @@
 Collection of old hindi evergreen songs that I just can't stop listening.
 Don't forget to see the other branches ([covers](https://github.com/ironmaniiith/oldHindiSongs/tree/covers), [instrumentals](https://github.com/ironmaniiith/oldHindiSongs/tree/instrumentals), [remixAndOther](https://github.com/ironmaniiith/oldHindiSongs/tree/remixAndOther)) as well.
 
-* [Ajeeb daastan he ye](https://www.youtube.com/watch?v=yTgkfms8J98)
-* [Pehla nasha](https://www.youtube.com/watch?v=nXAkqLBgxGA)
+* [Ajeeb daastan he ye](https://www.youtube.com/watch?v=VEY2Szh0dEM)
+* [Pehla nasha](https://www.youtube.com/watch?v=hWJohzeDr7w)
 * [Yeh shaam mastani](https://www.youtube.com/watch?v=_sZg4EUB3IM)
 * [Pal pal dil ke paas](https://www.youtube.com/watch?v=AMuRRXCuy-4)
 * [Pyar deewana hota he](https://www.youtube.com/watch?v=lslZptXok8o)
