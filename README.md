@@ -95,3 +95,5 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Sara zamana haseenon ka deewana](https://www.youtube.com/watch?v=0AwkZihdw6E)
 * [Man kyon behka](https://www.youtube.com/watch?v=tyOAj-4sPdw)
 * [Wada karo nahin chhodoge tum mera saath](https://www.youtube.com/watch?v=AL2YnJsE70w)
+* [Ye raatein ye mausam nadi ka kinara](https://www.youtube.com/watch?v=4np5V2wTXwE)
+* [Ramayya Vastawaiyya](https://www.youtube.com/watch?v=rW72kDrJvwA)
