@@ -69,3 +69,5 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Hum dono do premi](https://www.youtube.com/watch?v=4cUqyCB98UM)
 * [Dilbar mere kab tak mujhe](https://www.youtube.com/watch?v=aFxEmdEtBN0)
 * [Samne ye kaun aaya](https://www.youtube.com/watch?v=37HU_J2tTkY)
+* [Tum itna jo muskura rahe ho](https://www.youtube.com/watch?v=C8eAKT-zQXk)
+* [Humein aur jeene ki chahat na hoti](https://www.youtube.com/watch?v=1PoKegwKnVo)
