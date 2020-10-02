@@ -97,3 +97,6 @@ Don't forget to see the other branches ([covers](https://github.com/ironmaniiith
 * [Wada karo nahin chhodoge tum mera saath](https://www.youtube.com/watch?v=AL2YnJsE70w)
 * [Ye raatein ye mausam nadi ka kinara](https://www.youtube.com/watch?v=4np5V2wTXwE)
 * [Ramayya Vastawaiyya](https://www.youtube.com/watch?v=rW72kDrJvwA)
+* [Ik Raasta Hai Zindagi](https://www.youtube.com/watch?v=JTOXKc5mUGU)
+* [Mere Samne Wali Khidki Mein](https://www.youtube.com/watch?v=S0WPSYFm7iE)
+* [Zindagi Ke Safar Mein Guzar Jaate](https://www.youtube.com/watch?v=TqdNqBA44Bg)
